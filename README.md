@@ -7,7 +7,7 @@
 
 ---
 
-### Languages & Technologies
+### Languages & Technologies Used
 
 **Languages:**  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -18,27 +18,55 @@
 
 > Yes, I write Modern C++ (C++11/17/20/23), not just C with Classes.
 
-**Linux & System Setup:**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Linux Distros:**  
+![CachyOS](https://img.shields.io/badge/CachyOS-00A896?style=for-the-badge&logo=cachyos&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
 
-**Editors & Developer Tools:**  
+**Code Editors & IDEs:**  
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-1C1D1F?style=for-the-badge&logo=pycharm&logoColor=white)
+![GNU Nano](https://img.shields.io/badge/GNU_Nano-00599C?style=for-the-badge&logo=gnu&logoColor=white)
+![Micro](https://img.shields.io/badge/Micro_Editor-2563EB?style=for-the-badge&logo=micro&logoColor=white)
 
-**AI & Learning Assistants:**  
+**Development Tools & Environments:**  
+![Alacritty](https://img.shields.io/badge/Alacritty-F44D27?style=for-the-badge&logo=alacritty&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![GCC](https://img.shields.io/badge/GCC-00599C?style=for-the-badge&logo=gnu&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
+**Databases:**  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+**Documentation & Diagramming:**  
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
+![Mermaid](https://img.shields.io/badge/Mermaid_JS-FF3670?style=for-the-badge&logo=mermaid&logoColor=white)
+![Excalidraw](https://img.shields.io/badge/Excalidraw-1B1B1F?style=for-the-badge&logo=excalidraw&logoColor=white)
+
+**AI Assistants:**  
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-5551FF?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-0D9488?style=for-the-badge&logo=ollama&logoColor=white)
 
-* **Desktop Environments:** KDE Plasma | Xfce | Headless / TTY
+**Desktop Environments:**  
+![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1C99E0?style=for-the-badge&logo=kde&logoColor=white)
+![GNOME](https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-00AAFF?style=for-the-badge&logo=hyprland&logoColor=white)
+![Cinnamon](https://img.shields.io/badge/Cinnamon-DC6820?style=for-the-badge&logo=cinnamon&logoColor=white)
+![Xfce](https://img.shields.io/badge/Xfce-2284F2?style=for-the-badge&logo=xfce&logoColor=white)
+![Headless/TTY](https://img.shields.io/badge/Headless/TTY-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
