@@ -2,10 +2,8 @@
 
 - **Computer Science Student** at **VIT Chennai**  
 - **Linux Enthusiast**
-
 - **Focus:** Computer Science Fundamentals, Modern C++, Data Structures & Algorithms, and Python.
-
-> *"Yes, I write Modern C++ (C++11/17/20), not just C with Classes!"*
+- **AI Integration:** Utilizing AI tools to accelerate learning, debug complex code, and explore low-level concepts.
 
 ---
 
@@ -17,6 +15,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+> Yes, I write Modern C++ (C++11/17/20/23), not just C with Classes.
 
 **Linux & System Setup:**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -30,13 +30,21 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
+**AI & Learning Assistants:**  
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
 * **Desktop Environments:** KDE Plasma | Xfce | Headless / TTY
 
 ---
 
 ### Learning Roadmap
 
-<details open>
+<details>
 <summary><b>Python Roadmap</b></summary>
 
 * Core & Language Fundamentals:
@@ -46,7 +54,6 @@
   - [x] File I/O & Exception Handling (try / except / finally)
   - [x] List, Dict & Set Comprehensions
   - [x] Type Hinting
-  - [ ] Context Managers (with statement, custom context managers)
   - [ ] Functional Tools (map, filter, lambda, functools)
   - [ ] Iterators, Generators (yield) & Decorators (@decorator)
 
@@ -67,7 +74,7 @@
   - [ ] Testing & Environment: pytest, Virtual Environments (venv)
 </details>
 
-<details open>
+<details>
 <summary><b>C & Modern C++ Roadmap</b></summary>
 
 * C Fundamentals & Low-Level Systems:
@@ -77,8 +84,9 @@
   - [x] Structures (struct), Unions & Bit Manipulation
   - [x] File Handling in C (fopen, fclose, fprintf)
 
-* Modern C++ (C++11 through C++20):
+* Modern C++:
   - [x] Modern Syntax (auto, Range-based for, Lambdas)
+  - [x] Modern Containers (std::optional, std::any, std::variant)
   - [x] Object-Oriented Programming (Classes, Inheritance, Polymorphism)
   - [x] Virtual Functions & Abstract Classes
   - [x] Smart Pointers & RAII (std::unique_ptr, std::shared_ptr, std::weak_ptr)
@@ -115,18 +123,4 @@
 
 ---
 
-
-<!--
-**SFS-RAID/SFS-RAID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Reach out:** Feel free to explore my repositories or connect with me!
