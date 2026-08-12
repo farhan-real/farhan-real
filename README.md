@@ -146,10 +146,24 @@
 <details>
 <summary><b>Linux & Shell Scripting</b></summary>
 
-- [x] Common Linux Commands
-- [x] Desktop Environment Configuration (KDE Plasma, Xfce)
-- [x] Shell Scripting & Automation (bash, zsh)
-- [x] Terminal Power Tools (grep, sed, awk, find, tmux, git)
+* Core Shell & Environment Setup:
+  - [x] Common Linux Commands & File Hierarchy Standard (FHS)
+  - [x] Desktop Environment & Window Manager Dotfiles (KDE Plasma, Hyprland, Xfce)
+  - [x] Shell Scripting & Automation (bash, zsh, POSIX compliance)
+  - [x] Stream Processing & Text Manipulation (grep, sed, awk, cut, tr, xargs)
+  - [x] Terminal Power Tools & Multiplexers (tmux, git, neovim)
+
+* Systems Diagnostics & Process Control:
+  - [x] Process Management & Resource Monitoring (ps, top, htop, btop, kill, pkill)
+  - [ ] System Call & Library Tracing (strace, ltrace)
+  - [ ] Inspecting File Descriptors & Sockets (lsof, fuser)
+  - [ ] Systemd Service & Log Administration (systemctl, journalctl)
+  - [ ] Kernel Logs & Proc Filesystem (/proc, /sys, dmesg, sysctl)
+
+* Networking, Storage & Security:
+  - [ ] Advanced CLI Networking & Socket Analysis (ip, ss, tcpdump, netcat, dig)
+  - [ ] Disk Partitioning & Storage Management (lsblk, fdisk, mount, /etc/fstab, rsync)
+  - [ ] Linux Security & Access Control (SUID/SGID/Sticky Bits, ACLs, SSH Tunneling)
 </details>
 
 ---
